@@ -1,5 +1,8 @@
 # gradle-82-opposite-option-issue
 
+Reported as: https://github.com/gradle/gradle/issues/25658
+
+
 To reproduce the issue, call:
 
 ```bash
